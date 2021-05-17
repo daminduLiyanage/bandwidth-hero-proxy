@@ -4,8 +4,8 @@
 3. Give app a name. Hit deploy. 
 4. Select the app (usually opens up automatically)
 5. Select the Deploy tag. 
-6. Clone this repo should be cloned and install Heroku CLI and sign in  https://devcenter.heroku.com/articles/heroku-cli
-7. cd to cloned folder. 
+6. Clone this repo should be cloned and install Heroku CLI and sign in https://devcenter.heroku.com/articles/heroku-cli
+7. `cd` to cloned folder. 
 8. change to heroku branch with the command  `heroku git:remote -a <Your App Name Here>`
 9. Push to Heroku `git push heroku master` (Default branch name is master)
 10. Let the cli upload it and build. If any issues check it through overview tab of the dashboard (web dashboard of your heroku app)
